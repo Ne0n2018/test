@@ -42,9 +42,8 @@ span{
 }
 .background{
     background-image: url(image/bg.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    padding-bottom: 202px;
 }
 h1{
     padding-top: 203px;
@@ -74,6 +73,9 @@ button:hover{
     background-color: #3E9CDC;
     color: white;
 }
+.buttons{
+    padding-bottom: 202px;
+}
 .background-second{
     background-image: url(/image/bg2.png);
     background-repeat: no-repeat;
@@ -85,4 +87,11 @@ h3{
     font-family: "Lato", sans-serif;
     font-weight: bolder;
     color: white;
+}
+.align{
+    text-align: center;
+}
+.gr-text{
+    font-family: "Lato", sans-serif;
+    color:#BBBBBB;
 }
