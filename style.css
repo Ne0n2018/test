@@ -82,4 +82,7 @@ button:hover{
 }
 h3{
     padding-top: 120px;
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    color: white;
 }
